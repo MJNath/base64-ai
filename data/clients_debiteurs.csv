@@ -1,0 +1,5 @@
+client_id,nom,prénom,email,téléphone,revenu_mensuel,solde_compte,score_credit
+C002,Nkodia,Alice,alice.nkodia@example.com,0651234568,1800000,-50000,640
+C003,Ngoma,Franck,franck.ngoma@example.com,0651234569,900000,-300000,590
+C006,Tshibanda,Esther,esther.tshibanda@example.com,0651234572,700000,-100000,580
+C009,Mfumu,Eric,eric.mfumu@example.com,0651234575,1600000,-100000,610
