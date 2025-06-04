@@ -1,0 +1,11 @@
+client_id,nom,prénom,email,téléphone,revenu_mensuel,solde_compte,score_credit
+C001,Mabiala,Jean,jean.mabiala@example.com,0651234567,2500000,1500000,720
+C002,Nkodia,Alice,alice.nkodia@example.com,0651234568,1800000,-50000,640
+C003,Ngoma,Franck,franck.ngoma@example.com,0651234569,900000,-300000,590
+C004,Lusamba,Chantal,chantal.lusamba@example.com,0651234570,3000000,4000000,810
+C005,Kanza,Michel,michel.kanza@example.com,0651234571,1000000,200000,620
+C006,Tshibanda,Esther,esther.tshibanda@example.com,0651234572,700000,-100000,580
+C007,Bassole,David,david.bassole@example.com,0651234573,2000000,500000,690
+C008,Kimbuta,Laure,laure.kimbuta@example.com,0651234574,1700000,300000,730
+C009,Mfumu,Eric,eric.mfumu@example.com,0651234575,1600000,-100000,610
+C010,Ilunga,Josiane,josiane.ilunga@example.com,0651234576,2200000,2500000,775
